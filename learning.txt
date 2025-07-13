@@ -1,0 +1,1 @@
+This course has taught me the fundamentals of Git and GitHub collaboration. I’ve learned how to clone repositories, make changes locally, commit those changes, and push them back to GitHub. I also practiced creating pull requests and managing contributions, which are valuable skills for real-world team projects.
